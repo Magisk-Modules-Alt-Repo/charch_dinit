@@ -11,8 +11,5 @@ done
 sleep 120
 
 charch -- /usr/bin/env bash << EOF
-	openrc -n boot
-	openrc -n default
-	openrc -n nonetwork
-	openrc -n single
+	/usr/bin/dinit-init
 EOF
