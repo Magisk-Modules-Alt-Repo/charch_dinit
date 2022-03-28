@@ -1,6 +1,8 @@
 # charch_dinit
 Initialize Dinit init for the default ChArch rootfs instance.
 
+![screenshot_20220328-152133.png](assets/screenshot_20220328-152133.png)
+
 Tanks to https://github.com/tytydraco/ChArch for best work my favorit chroot
 scipt for my android devices
 
@@ -8,6 +10,11 @@ Here I use dinit as my main container init tanks https://github.com/davmac314/di
 
 my best os chroot os is https://armtixlinux.org/ and https://alpinelinux.org/
 
+> Submit issue for question or Submit error
+
+Use my original repo for any latest update
+
+https://github.com/mohamad-supangat/charch_dinit
 
 ## INSTALL GUIDE
 - install charch module in magisk
