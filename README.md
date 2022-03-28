@@ -31,3 +31,9 @@ https://github.com/mohamad-supangat/charch_dinit
   ```
 - follow https://github.com/davmac314/dinit guide for make service configuration, or you can see or clone https://github.com/mohamad-supangat/dinit.d my dinit config for my chroot env
 - now every time you reboot the phone the dinit service will run automatically
+
+
+## Tested
+- Samsung s7 edge
+  Lineage os 16.0 android 9
+  usage: My cloudflared, cron, and some automation server with low power :)
